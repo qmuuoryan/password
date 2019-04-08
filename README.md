@@ -15,7 +15,7 @@
 
 The program should ask for user's username and password when ca(create account) is entered:
 
-Input Example: Enter ca
+Input Example: Enter ca.
 
 Output Example: What is your username?
 
@@ -23,7 +23,7 @@ Output Example: What is your password?
 
 The program should authenticate the account by asking the user to login again when cc(create credential) is entered:
 
-Input Example: Enter cc
+Input Example: Enter cc.
 
 Output Example: Login to your account. Username?
 
